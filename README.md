@@ -1,5 +1,6 @@
 # 2021_Data_analysis_contest
-🥈 2021 Data Analysis Contest in Catholic University of Korea
+🥈 2021-1 Data Analysis Contest in Catholic University of Korea
+🥈 2021-2 Data Analysis Contest in Catholic University of Korea
 
 ### TODO
 추가적으로 필요한 데이터 분석 자료
